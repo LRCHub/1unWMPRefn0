@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "檄! 帝国華撃団",
+  "base_artist": "横山 智佐 (真宮寺 さくら)、帝国歌劇団",
+  "createdAt": "2025-12-01T21:40:43.709965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "檄! 帝国華撃団",
+      "artist": "真宮寺さくら(横山智佐)/帝国歌劇団",
+      "has_synced": false,
+      "path": "select/01_檄!_帝国華撃団_真宮寺さくら(横山智佐)_帝国歌劇団.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "檄！帝国華撃団",
+      "artist": "帝国歌劇団",
+      "has_synced": false,
+      "path": "select/02_檄!帝国華撃団_帝国歌劇団.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "檄！帝国華撃団",
+      "artist": "真宮寺さくら",
+      "has_synced": true,
+      "path": "select/03_檄!帝国華撃団_真宮寺さくら.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団",
+      "artist": "東京ブラススタイル",
+      "has_synced": false,
+      "path": "select/04_檄!帝国華撃団_東京ブラススタイル.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "檄！ 帝国華撃団",
+      "artist": "東京ブラス・スタイル",
+      "has_synced": false,
+      "path": "select/05_檄!_帝国華撃団_東京ブラス・スタイル.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/06_檄!帝国華撃団_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団 (サクラ大戦)",
+      "artist": "横山智佐(真宮寺さくら)&帝国歌劇団",
+      "has_synced": true,
+      "path": "select/07_檄!帝国華撃団_(サクラ大戦)_横山智佐(真宮寺さくら)&帝国歌劇団.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "檄! 帝国華撃団 <新章>",
+      "artist": "佐倉 綾音 (天宮 さくら)",
+      "has_synced": true,
+      "path": "select/08_檄!_帝国華撃団__新章_佐倉_綾音_(天宮_さくら).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団 (サクラ大戦)",
+      "artist": "横山智佐(真宮寺さくら)",
+      "has_synced": true,
+      "path": "select/09_檄!帝国華撃団_(サクラ大戦)_横山智佐(真宮寺さくら).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゲキテイ(檄! 帝国華撃団)",
+      "artist": "真宮寺さくら (横山智佐) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/10_ゲキテイ(檄!_帝国華撃団)_真宮寺さくら_(横山智佐)_&_帝国歌劇団.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "檄！帝国華撃団",
+      "artist": "中川 翔子",
+      "has_synced": true,
+      "path": "select/11_檄!帝国華撃団_中川_翔子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "檄! 帝国華撃団 (サクラ大戦)",
+      "artist": "Natsuko",
+      "has_synced": true,
+      "path": "select/12_檄!_帝国華撃団_(サクラ大戦)_Natsuko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "檄!帝国華撃団",
+      "artist": "横山智佐 (真宮寺さくら) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/pl_01_檄!帝国華撃団_横山智佐_(真宮寺さくら)_&_帝国歌劇団.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "檄!帝国華撃団",
+      "artist": "横山智佐 (真宮寺さくら) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/pl_02_檄!帝国華撃団_横山智佐_(真宮寺さくら)_&_帝国歌劇団.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "檄!帝国華撃団",
+      "artist": "横山智佐 (真宮寺さくら) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/pl_03_檄!帝国華撃団_横山智佐_(真宮寺さくら)_&_帝国歌劇団.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "檄!帝国華撃団",
+      "artist": "横山智佐 (真宮寺さくら) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/pl_04_檄!帝国華撃団_横山智佐_(真宮寺さくら)_&_帝国歌劇団.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "檄!帝国華撃団",
+      "artist": "横山智佐 (真宮寺さくら) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/pl_05_檄!帝国華撃団_横山智佐_(真宮寺さくら)_&_帝国歌劇団.txt"
+    }
+  ]
+}
